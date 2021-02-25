@@ -1,0 +1,1 @@
+Brodsky A, Krishnamoorthy M, Bernstein WZ, and Nachawati MO. 2016a “A System and Architecture for Reusable Abstractions of Manufacturing Processes.” 2016 IEEE International Conference on Big Data (Big Data) Washington, DC, December 2004–2013.

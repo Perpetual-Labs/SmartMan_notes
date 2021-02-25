@@ -1,0 +1,1 @@
+Nachawati MO, Brodsky A, and Luo J. 2017 “Unity Decision Guidance Management System: Analytics Engine and Reusable Model Repository.” 19th International Conference on Enterprise Information Systems (ICEIS), edited by Hammoudi Slimane, Smialek Michal, 312–323. Porto, Portugal.

@@ -1,0 +1,1 @@
+Considering the current trends in [[Cloud-based information infrastructure|cloud-based manufacturing]] [[Wu et al. 2013]]; Wang, Törngren, and Onori 2015), allowing for on-demand analytics is required for the full realisation of [[Smart Manufacturing]].
